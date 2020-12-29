@@ -18,4 +18,9 @@ You may write your program in either PHP, Javascript or Python.
 ## Project 02 - PHP Mini Project
 This project should be completed in PHP, what verion of PHP is up to you, but please add a comment at the top of the file with the version number (i.e. "PHP Version: 7.4") so we know what enviroment to run your code in.
 
-The scenario: The client has a store front that needs a back-end API. Create a simple PHP class to handle adding, subtracting and changing quantities of items in the cart. You'll find the request parameters below for each API call from the front-end, each request will provide all the required data needed to perform the request on the back-end. We're going to assume front-to-backend security headers are taken care via magic for the sake of time :). When it comes to storing the data, we obviously need a place to store it, to again make this straight-forward and simple, we've created a simple database structure and included it in this repo. This database is ULTRA simple and is really just a place to store the data, feel free to alter it if you see neccessary. Don't worry about user -> cart relationships, here, again for simplicity, we're assuming carts = users.
+The scenario: The client has a store front that needs a back-end API. Using the Cart.php class included in the repo, create the methods to
+
+- handle adding items, removing items and clearing all items from the cart, then return the updated cart. 
+- calculate and return the total of all the items in the cart with tax applied
+
+You'll find the required variables and data in the Cart.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :). 
