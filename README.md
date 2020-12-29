@@ -18,9 +18,9 @@ You may write your program in either PHP, Javascript or Python.
 ## Project 02 - PHP Mini Project
 This project should be completed in PHP, what verion of PHP is up to you, but please add a comment at the top of the file with the version number (i.e. "PHP Version: 7.4") so we know what enviroment to run your code in.
 
-The scenario: The client has a store front that needs a back-end API. Using the Cart.php class included in the repo, create the methods to
+The scenario: The client has a store front that needs a back-end API. Using the Cart class in the project_02.php included in the repo, create the methods to
 
 - handle adding items, removing items and clearing all items from the cart, then return the updated cart. 
 - calculate and return the total of all the items in the cart with tax applied
 
-You'll find the required variables and data in the Cart.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :). 
+You'll find the required variables and data in the project_02.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :). 
