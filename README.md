@@ -23,4 +23,15 @@ The scenario: The client has a store front that needs a back-end API. Using the 
 - handle adding items, removing items and clearing all items from the cart, then return the updated cart. 
 - calculate and return the total of all the items in the cart with tax applied
 
-You'll find the required variables and data in the project_02.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :). 
+You'll find the required variables and data in the project_02.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :).
+
+## Project 03 - JavaScript Mini Project
+Please run through each of the following items using only JavaScript. While you're more than welcome to split these out into their own files, you can also put them all into a "project_03.js" file and use comments to seperate / label them.
+
+1. Explain what a callback function is and provide a simple example of one. The explanation should be included in the file as a comment.
+2. Give two arrays, a "Working" array and a "Deleted" array, write functions to add and subtract items from the "working" array while also keeping track of the "deleted" items in the "Deleted" array.
+3. Write a function to check if two strings are anagrams of one another.
+
+
+## That's It!
+When you're done, please publish your repo either on GitHub, GitLab, BitBucket or another publicly available git repo hosting service of your choosing and email it to both (CC'ing one of us is fine, no need for seperate emails) michael@kinetic.com and steven@kinetic.com. If you could also tell us what you thought overall of this assesment in your email, that would be helpful, we're constantly trying to improve our processes and feedback is always welcome!
