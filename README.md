@@ -26,7 +26,7 @@ The scenario: The client has a store front that needs a back-end API. Using the 
 You'll find the required variables and data in the project_02.php file. We're going to assume front-to-backend security headers and input sanitization are taken care via magic for the sake of time :).
 
 ## Project 03 - JavaScript Mini Project
-Please run through each of the following items using only JavaScript. While you're more than welcome to split these out into their own files, you can also put them all into a "project_03.js" file and use comments to seperate / label them.
+Please run through each of the following items using only vanilla JavaScript. While you're more than welcome to split these out into their own files, you can also put them all into a "project_03.js" file and use comments to seperate / label them.
 
 1. Explain what a callback function is and provide a simple example of one. The explanation should be included in the file as a comment.
 2. Give two arrays, a "Working" array and a "Deleted" array, write functions to add and subtract items from the "working" array while also keeping track of the "deleted" items in the "Deleted" array.
